@@ -1,0 +1,3 @@
+Status: 200
+Users count: 10
+✅ API test passed!

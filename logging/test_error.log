@@ -1,0 +1,66 @@
+2025-11-27T15:27:29+05:30 [error]: Login test failed for user gurpreet1@yopmail.com: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: locator('User Logged in Successfully by user')
+Expected: visible
+Timeout: 5000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 5000ms[22m
+[2m  - waiting for locator('User Logged in Successfully by user')[22m
+
+2025-11-27T15:28:34+05:30 [error]: Login test failed for user gurpreet1@yopmail.com: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: locator('User Logged in Successfully')
+Expected: visible
+Timeout: 5000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 5000ms[22m
+[2m  - waiting for locator('User Logged in Successfully')[22m
+
+2025-11-27T15:47:32+05:30 [error]: Login test failed for user gurpreet1@yopmail.com: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: locator('text=User Logged in Successfully yes')
+Expected: visible
+Timeout: 5000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 5000ms[22m
+[2m  - waiting for locator('text=User Logged in Successfully yes')[22m
+
+2025-11-27T15:48:57+05:30 [error]: Login test failed for user gurpreet1@yopmail.com: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: locator('text=User Logged in Successfully')
+Expected: visible
+Timeout: 5000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 5000ms[22m
+[2m  - waiting for locator('text=User Logged in Successfully')[22m
+
+2025-11-27T16:28:17+05:30 [error]: Login test failed for user gurpreet1@yopmail.com: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: locator('text=User Logged in Successfully')
+Expected: visible
+Timeout: 5000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 5000ms[22m
+[2m  - waiting for locator('text=User Logged in Successfully')[22m
+
+2025-11-27T16:29:10+05:30 [error]: Login test failed for user gurpreet1@yopmail.com: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: locator('text=User Logged in Successfully')
+Expected: visible
+Timeout: 5000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 5000ms[22m
+[2m  - waiting for locator('text=User Logged in Successfully')[22m
+
